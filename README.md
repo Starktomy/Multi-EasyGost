@@ -1,4 +1,7 @@
 # Multi-EasyGost一键脚本使用指南
+## 修改内容 
+将大陆镜像从oss更改为ghproxy
+
 ***
 ## 感谢: 
 1. 感谢 @ginuerzh 大佬开发的 [gost](https://github.com/ginuerzh/gost) 隧道程序 ，功能强大使用简单，想要详细了解的朋友可以查看[官方文档](https://docs.ginuerzh.xyz/gost/)
@@ -17,7 +20,7 @@
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 > 注：由于 gost v2.11.2 功能稳定，此脚本将一直采用该版本，后续不再跟随官方更新
-大陆部分使用https://ghproxy.com/加速
+
 ## 功能
 
 ### 原脚本功能
